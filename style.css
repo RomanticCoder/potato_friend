@@ -1,0 +1,28 @@
+pre {
+  font-family: "Nanum Gothic Coding", monospace;
+}
+
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.potato {
+  height: 100vh;
+  width: 56.25vh;
+}
+
+#potato__img {
+  height: 100vh;
+  width: 56.25vh;
+}
+
+.sentence_box {
+  position: absolute;
+  top: 13vh;
+  width: 56.25vh;
+  height: 30vh;
+  text-align: center;
+  line-height: 25vh;
+  overflow: hidden;
+}
